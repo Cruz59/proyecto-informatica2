@@ -1,0 +1,16 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+
+body{
+    margin: 0px;
+}
+
+li{
+    list-style: none;
+}
+
+ol{
+    padding-inline-start: 10px;
+}

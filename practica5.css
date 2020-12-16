@@ -1,0 +1,171 @@
+/*HEADER*/
+header{
+    display:flex;
+    justify-content:space-between;
+    height: 100px;
+    padding: 0 5rem;
+    background-color: white;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+#unico{
+    padding: 10px;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+}
+
+nav span{
+    font-style: italic;
+    font-size: 1.25rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    padding: 0 1rem;
+    color: gray;
+}
+
+.otros{
+    display: flex;
+    align-items: center;
+}
+
+.otros img{
+    padding: 0px 20px 0px 0px;
+}
+
+/*MAIN*/
+main{
+    background-color: whitesmoke;
+    margin-bottom: 0px;
+    padding: 2rem 0rem;
+}
+
+ .sección2{
+     height: 200px;
+     display: flex;
+     align-items: center;
+     flex-direction: row;
+     justify-content: center;
+     padding: 3rem 0rem;
+     background-color: grey;
+ }
+
+ .sección3{
+     display: flex;
+     align-items: center;
+     flex-direction: column;
+     justify-content: center;
+ }
+
+ .sección3 h1{
+     font-size: 4rem;
+     color: white;
+     font-weight: 600;
+ }
+
+ .sección4 h3{
+    font-size: 1.25rem;
+    color: white;
+}
+
+.sección4{
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+}
+
+h3{
+    margin: 0px;
+}
+
+.productos{
+    display: flex;
+    flex-direction: column;
+    margin: 2rem 5rem;
+    margin-bottom: 0rem;
+}
+
+.enfoque{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(228, 239, 255);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.productos img{
+    padding: 2rem;
+    width: 300px;
+}
+
+/* Footer*/
+
+footer{
+    height: 220px;
+    background-color: lightslategray;
+    padding: 0rem;
+    margin-top: rem;
+}
+
+
+section.final{
+    width: 1200px;
+    height: 200px;
+    max-height: 200px;
+    display:flex;
+    flex-direction: row;
+    height: 300px;
+    padding: 0rem;
+    padding-top: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+}
+
+.final1 img{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 35px;
+    padding-bottom: 1rem;
+}
+
+.final2{
+display: flex;
+flex-direction: column;
+}
+
+.redes{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.final2 a{
+    color: white;
+    font-size: 1rem;
+    font-weight: 600;  
+    padding-bottom: 2rem; 
+    padding-left: 0.5rem;
+}
+
+.final3 a{
+    color: white;
+    font-size: 1rem;
+    font-weight: 600;
+    padding-bottom: 1rem;
+}
+.final3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
