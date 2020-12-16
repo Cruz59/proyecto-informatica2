@@ -1,2 +1,2 @@
 # proyecto-informatica2
-Pagina creada en la clases de informática aplicada 2.
+Pagina creada en la clase de informática aplicada 2.
